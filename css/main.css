@@ -1,0 +1,79 @@
+html{
+	padding: 0;
+	margin: 0;
+}
+
+section{
+	width: 1000px;
+	margin: 30px auto;
+}
+
+header{
+	position: fixed;
+	text-align: center;
+	height: 100%;
+	width: 23%;
+	margin-top: -30px;
+	background-color: #5478ff;
+	color: #fff;
+}
+
+a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #fff;
+	padding: 20px;
+}
+
+.weather{
+	text-align: center;
+	font-size: 18px;
+}
+
+table{
+	border: 1px solid;
+	border-color: #5478ff;
+	width: 100%;
+	text-align: center;
+}
+
+table a{
+	color: #333;
+}
+
+td{
+	padding: 10px;
+	border: 1px solid;
+	border-color: #5478ff;
+}
+
+input{
+	width: 300px;
+	padding: 10px 0;
+	margin: 10px 0;
+	cursor: pointer;
+}
+
+.сomments input, textarea{
+	width: 100%;
+	border-color: #5478ff;
+}
+
+.com{
+	border: 1px solid;
+	border-color: #5478ff;
+	padding: 20px 0;
+}
+
+.reg{
+	width: 30%;
+	margin: 50px auto;
+	text-align: center;
+}
+
+.reg h3{
+	margin: 0;
+	padding: 0;
+}
+
+
